@@ -16,3 +16,5 @@ rootProject.name = "ContentProvider"
 include ':RuntimePermission'
 include ':RuntimePermission:contentresolver'
 include ':contentresolver'
+include ':contentprovider'
+include ':visitdataprovider'

@@ -5,10 +5,11 @@
       <map>
         <entry key="..\:/AndroidProject/crazyandroid/ContentProvider/RuntimePermission/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/AndroidProject/crazyandroid/ContentProvider/contentresolver/src/main/res/layout/activity_main.xml" value="0.18229166666666666" />
+        <entry key="..\:/pro/crazyandroid/ContentProvider/visitdataprovider/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
